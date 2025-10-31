@@ -1,5 +1,5 @@
 # heatshrink
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/uist1idrju3i/heatshrink)
 A data compression/decompression library for embedded/real-time systems.
 
 
